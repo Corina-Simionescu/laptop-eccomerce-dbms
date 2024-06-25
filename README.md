@@ -19,4 +19,5 @@
 
 1. Run `create_tables.sql` to create the database tables.
 2. Run `insert_data.sql` to populate the tables with initial data.
-3. Run `sql_operations.sql` to perform the SQL operations.
+3. Open `sql_operations.sql` and execute the individual SQL blocks as needed to perform various SQL operations.
+4. Open `plsql_operations.sql` and execute the individual PL/SQL blocks as needed to perform various PL/SQL operations.
