@@ -1,14 +1,19 @@
 ## Folders
 
 - `SQL`: Contains SQL scripts for creating a sample database, inserting data, and performing various SQL operations.
+- `PL/SQL`: Contains PL/SQL operations.
 
-## Files - SQL folder
+## Files - `SQL` folder
 
 - `create_tables.sql`: Contains the SQL statements to create the database tables.
 - `insert_data.sql`: Contains the SQL statements to insert initial data into the tables.
 - `sql_operations.sql`: Contains various SQL operations such as queries and updates.
+- `Project-SQL`: A Word document with detailed documentation of the SQL project.
 
-## Files - PL/SQL folder
+## Files - `PL/SQL` folder
+
+- `plsql_operations`: Contains various PL/SQL operations.
+- `Project - PLSQL`: A Word document with detailed documentation of the PL/SQL project.
 
 ## Setup Instructions
 
