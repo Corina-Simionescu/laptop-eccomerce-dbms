@@ -10,7 +10,7 @@
 - `sql_operations.sql`: Contains various SQL operations such as queries and updates.
 - `Project-SQL`: A Word document with detailed documentation of the SQL project.
 
-## Files - `PL/SQL` folder
+## Files - `PLSQL` folder
 
 - `plsql_operations`: Contains various PL/SQL operations.
 - `Project - PLSQL`: A Word document with detailed documentation of the PL/SQL project.
