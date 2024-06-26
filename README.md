@@ -1,19 +1,14 @@
-## Folders
+# DMBS for Laptop E-Commerce Platform
 
-- `SQL`: Contains SQL scripts for creating a sample database, inserting data, and performing various SQL operations.
-- `PL/SQL`: Contains PL/SQL operations.
+This project combines two college projects: SQL and PL/SQL development for an e-commerce platform specializing in laptop sales.
 
-## Files - `SQL` folder
+## SQL part
 
-- `create_tables.sql`: Contains the SQL statements to create the database tables.
-- `insert_data.sql`: Contains the SQL statements to insert initial data into the tables.
-- `sql_operations.sql`: Contains various SQL operations such as queries and updates.
-- `Project-SQL`: A Word document with detailed documentation of the SQL project.
+In the SQL part of the project, I designed and implemented the database schema for an e-commerce platform focused on laptop sales. This involved creating tables, defining relationships, and optimizing data storage using SQL functionalities such as joins, views, and indexes.
 
-## Files - `PLSQL` folder
+## PL/SQL part
 
-- `plsql_operations`: Contains various PL/SQL operations.
-- `Project - PLSQL`: A Word document with detailed documentation of the PL/SQL project.
+In the PL/SQL part I extended the functionality of the e-commerce platform. I developed PL/SQL packages, procedures, functions, and triggers to automate tasks and improve overall system performance. Exception handling mechanisms were implemented to ensure robust error management.
 
 ## Setup Instructions
 
